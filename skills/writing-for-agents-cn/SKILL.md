@@ -83,7 +83,7 @@ You win twice: fewer tokens, and a sharper hook for the agent to hang its thinki
 
 ## 中文写作适配 — writing-for-agents-cn 新增
 
-独立非官方适配，保留上游关于上下文指针、信息层级、完成条件、渐进披露与删减的完整方法，以及 SKILL-MECHANICS.md。中文适配不代替宿主当前的技能规范。
+保留上游关于上下文指针、信息层级、完成条件、渐进披露与删减的完整方法，以及 SKILL-MECHANICS.md。中文适配不代替宿主当前的技能规范。
 
 ### 中文触发条件与术语
 

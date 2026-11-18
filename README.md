@@ -2,9 +2,7 @@
 
 **让代理知道什么时候读、读什么、做到哪里算完成。**
 
-基于 [mattpocock/skills 的 writing-for-agents](https://github.com/mattpocock/skills/tree/main/skills/productivity/writing-for-agents) 小幅中文适配，独立维护、非官方。
-
-## 保留与补充
+## 功能与流程
 
 保留上游的上下文指针、信息层级、完成条件、渐进披露、合并与拆分、删减重复内容等方法，以及原始技能机制参考。
 
@@ -20,7 +18,9 @@ npx skills add batespaige357-tech/writing-for-agents-cn --skill writing-for-agen
 
 手动安装复制 `skills/writing-for-agents-cn` 完整目录，保留 SKILL-MECHANICS.md。调用配置依目标宿主实际支持为准，本包不提供跨平台自动转换器，也不会自动修改全局指引。
 
-## 来源与检查
+## 来源与许可
+
+基于 [mattpocock/skills 的 writing-for-agents](https://github.com/mattpocock/skills/tree/main/skills/productivity/writing-for-agents)，由本仓库维护。
 
 MIT，保留 Matt Pocock 原版权与完整许可证，详见 [CHANGES.md](CHANGES.md)。
 

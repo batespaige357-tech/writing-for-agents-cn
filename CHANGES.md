@@ -11,3 +11,8 @@ Changes: frontmatter name and Chinese discovery terms; append Chinese trigger/te
 Recent-interest evidence: https://www.skills.sh/trending checked 2026-11-17T14:55:33.875568+00:00; Trending (24h), writing-for-agents #137, displayed 3.9K. Installation trend, not GitHub Star growth or creation date.
 
 Validation: original body retention, unchanged mechanics reference, UTF-8, local Markdown targets and skill format. No actual document-edit outcome or assistant behavior evaluation. No frontend build.
+
+
+## 2026-11-18 · 文档表达更新
+
+README 优先展示用途、功能与用法；来源信息集中到来源与许可部分，精简技能入口中的重复声明。核心工作流、参考内容、版权和许可证保持不变。
